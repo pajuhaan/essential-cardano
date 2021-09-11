@@ -57,6 +57,7 @@ Here is an outline of the categories:
 - [Tesseract](https://tesseract.one/)
 - [Quidli](https://quid.li/)
 - [Token Allies](https://tokenallies.com/)
+- [Selldone](https://selldone.com/nft)
 
 ### Strategic Partners and Collaborators ###
 - [SingularityNET](https://singularitynet.io/)
